@@ -1,0 +1,4 @@
+class OBJReader{
+	public:
+		OBJReader();
+};
