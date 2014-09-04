@@ -7,4 +7,5 @@ class Group{
 		vector<Face> faces;
 		int id_grupo;
 		string id_material;		
+
 };
